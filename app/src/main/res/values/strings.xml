@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Solitaire Variant</string>
+    <string name="textview">TextView</string>
+    <string name="howtoplay">Make sets of three of the same suit in descending order. Ace can be high or low. The last card of the set is the score card. Use the hold slot to keep a card between draws.</string>
+    <string name="attribution">The Images thanks to: \n Vectorized Playing Cards 2.0 - http://sourceforge.net/projects/vector-cards/ \n
+Copyright 2015 - Chris Aguilar - conjurenation@gmail.com \n
+Licensed under LGPL 3 - www.gnu.org/copyleft/lesser.html</string>
+    <string name="menu">Menu</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="newgame">NewGame</string>
+    <string name="about">About</string>
+
+
+
+
+</resources>
